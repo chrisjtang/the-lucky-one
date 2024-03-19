@@ -35,5 +35,6 @@
 }
 
 .card {
-  padding: 2em;
+  padding: 1em 8em 2em;
+  height: 200px;
 }
